@@ -1,6 +1,6 @@
 # Retail-Sales-Analytics
 
-This project uses a sample dataset from Kaggle to demonstrate end-to-end retail sales analysis using **BigQuery** on **Google Cloud** for data querying and **Power BI** for visualization and reporting.  
+This project uses a sample dataset from Kaggle to demonstrate end-to-end retail sales analysis using **BigQuery** on **Google Cloud** for data querying and **Power BI** for visualization. The README focuses on the methodology and workflow used to prepare and model the data, while the specific analysis, insights, and findings are presented in the accompanying PowerPoint.  
 
 It includes:
 - Data modeling  
