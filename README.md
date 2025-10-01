@@ -14,6 +14,7 @@ It includes:
 - **BigQuery** (Google Cloud) – SQL queries for data extraction & transformation  
 - **Power BI** – dashboards, visuals, KPIs  
 - **Kaggle Dataset** – retail sales data  
+- **PowerPoint** – summarizing analysis, insights, and key findings
 
 ## What I Did
 1. Download the sample retail dataset from [Kaggle](https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset/data).  
