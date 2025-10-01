@@ -34,9 +34,12 @@ It includes:
    - Import fact and dimension tables into Power BI  
    - Establish relationships between tables (**many-to-one** from dimension tables to fact table)  
    - Create DAX measures for KPIs such as Total Sales, Average Transaction Value, and Total Customers  
-   - Build dashboards and interactive visualizations using the prepared tables  
 
-   For reference on layout, structure, and recommended dashboard design, see the attached Power BI file:  
+   Key DAX measures used in the dimension tables, which were essential for calculating metrics and supporting the dashboards, are shown in the attached screenshots:  
+   [DAXModel.pdf](https://github.com/user-attachments/files/22647695/DAXModel.pdf)
+
+5. Build dashboards and interactive visualizations using the prepared tables.  
+   - For reference on layout, structure, and recommended dashboard design, see the attached Power BI file:  
    [Power BI Report & Model View](https://github.com/user-attachments/files/22644778/PowerBIReportandModelView.pdf)
 
 ## Author
